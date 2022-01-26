@@ -2,8 +2,8 @@ let fetch = require('node-fetch')
 let handler = async (m, { conn }) => await conn.sendButtonLoc(m.chat, await (await fetch(reyganz + 'APIKEY')).buffer(), `
 *O W N E R*
 
-*SAWERIA:* https://saweria.co/inirey
-*TRAKKER:* https://trakteer.id/erzabot
+*DANA:* 088805890128 
+*PULSA:* 08880589128
 
 *P E N U L I S*
 
