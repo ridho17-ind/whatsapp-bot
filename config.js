@@ -1,7 +1,7 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['6281284760551', '6281284760551'] // Letakan nomor kamu disini
+global.owner = ['6288805890128', '6288805890128'] // Letakan nomor kamu disini
 
 global.APIs = { // API Prefix
   // nama: 'https://website'
@@ -41,22 +41,22 @@ global.APIKeys = { // APIKey nya disini
 
 
 // Sticker WM
-global.packname = '© erza bot'
-global.author = 'ig @_sekhaa'
+global.packname = '© Flicks Bot'
+global.author = 'ig @thisskyzo'
 
-global.wm = '© reysekha'
-global.wait = '⏳ tunggu permintaan kamu sedang di proses...'
-global.eror = '× Upss Erorr silahkan lapor owner'
+global.wm = '© ridho'
+global.wait = '⏳ Tunggu Permintaan Kamu Sedang Di Proses...'
+global.eror = '× Upss Erorr Silahkan Lapor Owner'
 global.benar = '✓'
 global.salah = '×'
-global.dikit = 'hampir benar'
-global.footer = '© sekha'
+global.dikit = 'Hampir Benar'
+global.footer = '© ridho'
 global.reyganz= 'https://api-reysekha.herokuapp.com/api/wallpaper/justina?apikey='
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 //global.CanvasAPI = '';
 //global.fla = 'https://api-reysekha.herokuapp.com/api/wallpaper/justina?apikey='
 
-global.multiplier = 150 // Semakin tinggi, semakin sulit naik level
+global.multiplier = 150 // Semakin tinggi, Semakin sulit naik level
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
